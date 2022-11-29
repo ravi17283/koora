@@ -1,1 +1,1 @@
-# koora
+demo and learning
